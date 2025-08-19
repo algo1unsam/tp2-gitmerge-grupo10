@@ -7,4 +7,8 @@ object algoritmo {
 
 object buenosAires {}
 
-
+object chaco {
+  method color() {
+    return "Verde esmeralda"
+  }
+}
