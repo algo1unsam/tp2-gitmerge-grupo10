@@ -9,4 +9,8 @@ object buenosAires {}
 
 
 object neuquen {}
-
+object chaco {
+  method color() {
+    return "Verde esmeralda"
+  }
+}
