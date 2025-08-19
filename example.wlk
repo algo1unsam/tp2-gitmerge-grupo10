@@ -1,6 +1,6 @@
 object algoritmo {
   
-  method color_retorno() { 
+  method color_retorno_recargado() { 
     return "Azul cobalto claro"
     }
 }
@@ -14,3 +14,4 @@ object chaco {
     return "Verde esmeralda"
   }
 }
+object laPampa{}
